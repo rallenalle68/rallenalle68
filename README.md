@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @rallenalle68
-- 👀 I’m interested in Deep Learning and Lego Star Wars The Skywalker Saga
-- 🌱 I’m currently learning Python and Swift
-- 💞️ I’m looking to collaborate on (Nothing)
-- 📫 How to reach me The Force
+- 👀 Below you will find unfinished projects, if you download, the project wont start (i think).
+- 🌱 Give some feedback if you want to.
 
-Current Projects!:
-Teamer App
+Current ongoing Project:
+Gannon Solar Eclipse
 
 
 <!---
