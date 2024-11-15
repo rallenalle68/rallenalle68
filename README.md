@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @rallenalle68
-- 👀 Below you will find unfinished projects, if you download, the project wont start (i think).
-- 🌱 Give some feedback if you want to.
+-Hire me google
 
-Current ongoing Project:
+Latest finished project:
 Gannon Solar Eclipse
 
 
