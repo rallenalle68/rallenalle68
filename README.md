@@ -1,6 +1,6 @@
 -Hire me google
 
-Latest finished project:
+Only good project on here is:
 Gannon Solar Eclipse
 
 
