@@ -1,8 +1,9 @@
 -Hire me google
 
-Only good project on here is:
-Gannon Solar Eclipse
-
+Projects:
+Gannon solar eclipse
+Classical_vs_Grover search
+Serenova website
 
 <!---
 rallenalle68/rallenalle68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
